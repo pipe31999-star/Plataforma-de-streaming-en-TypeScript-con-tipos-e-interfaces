@@ -1,1 +1,0 @@
-# Plataforma-de-streaming-en-TypeScript-con-tipos-e-interfaces
